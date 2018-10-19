@@ -1,0 +1,24 @@
+:local .grid {
+  padding: 3vmin;
+  margin: 3vmin;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(2, 80vmin);
+  grid-template-rows: repeat(2, 50vmin);
+  grid-column-gap: 4vmin;
+  grid-row-gap: 4vmin;
+}
+
+:local .cell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-style: solid;
+  border-width: 1px;
+}
+
+:local .cellText {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,10 +1,12 @@
 import React from 'react';
-// import styles from './../styles/Home.css';
+import styles from './../styles/Home.css';
 
 const Home = () => {
   return(
-    <div>
-      Home
+    <div className={ styles.home }>
+      <div className={ styles.container} >
+        matt minwoo lee
+      </div>
     </div>
   )
 }

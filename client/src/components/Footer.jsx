@@ -4,7 +4,7 @@ import styles from './../styles/Footer.css';
 const Footer = () => {
   return(
     <footer>
-      Footer
+      Developed by Matthew M. Lee @ 2018
     </footer>
   )
 }
