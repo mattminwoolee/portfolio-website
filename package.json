@@ -24,10 +24,12 @@
     "jquery": "^3.3.1",
     "mongoose": "^5.3.3",
     "nodemon": "^1.18.4",
+    "particles.js": "^2.0.0",
     "path": "^0.12.7",
     "react": "^16.5.2",
     "react-addons-css-transition-group": "^15.6.2",
     "react-dom": "^16.5.2",
+    "react-particles-js": "^2.3.0",
     "react-router-dom": "^4.3.1",
     "styled-components": "^4.0.0"
   },

@@ -6,7 +6,7 @@ const About = () => {
     <div className={ styles.about } >
       <div className={ styles.bioContainer } >
         <div className={ styles.photo } >
-          Photo here
+          <img src="/images/profile-photo.JPG"/>
         </div>
         <div className={ styles.bio }>
           <p>Hi! I am a Full stack software engineer, urban choreo dancer, hobby enthusiast, and content creator.</p>

@@ -1,4 +1,5 @@
 import React from 'react';
+// import Particles from 'react-particles-js';
 import styles from './../styles/App.css';
 import Header from './Header.jsx';
 import Main from './Main.jsx';

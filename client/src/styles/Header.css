@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-evenly;
   padding: 5vmin;
-  border-style: solid;
+  /* border-style: solid; */
   border-width: 1px;
   font-size: 4vmin;
 }
@@ -18,3 +18,11 @@
   text-decoration: none;
   color: inherit;
 }
+
+:local div > a:hover {
+  color: lightgrey;
+  transform: scale(1.9);
+}
+
+
+
