@@ -5,7 +5,7 @@ const Home = () => {
   return(
     <div className={ styles.home }>
       <div className={ styles.container} >
-        matt minwoo lee
+        <h1>matt minwoo lee</h1>
       </div>
     </div>
   )
