@@ -1,0 +1,6 @@
+:local .outerContainer {
+  font-size: 3vmin;
+  width: 150vmin;
+  text-align: center;
+  margin: auto;
+}
