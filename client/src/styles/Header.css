@@ -24,5 +24,14 @@
   transform: scale(1.9);
 }
 
+@media (max-width: 500px) {
+  header {
+    width: 100%;
+    text-align: center;
+  }
 
+  header > nav > div {
+    padding: 3.5vmin;
+  }
+}
 

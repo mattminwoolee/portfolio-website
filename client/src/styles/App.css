@@ -4,3 +4,9 @@
   text-align: center;
   margin: auto;
 }
+
+@media (max-width: 500px ) {
+  .outerContainer {
+    width: 100%;
+  }
+}

@@ -50,7 +50,7 @@
   justify-content: center;
   transform: scale(0);
   transition-duration: .8s;
-  width: 80%;
+  width: 90%;
 }
 
 :local .maskName {
@@ -70,4 +70,10 @@
 :local .cell:hover .mask {
   opacity: 1;
   transform: scale(1);
+}
+
+@media (max-width: 500px ) {
+  .grid {
+    display: block;
+  }
 }
