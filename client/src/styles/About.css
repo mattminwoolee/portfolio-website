@@ -52,6 +52,10 @@
   font-weight: bold;
 }
 
+:local .resumeContainer {
+  margin-top: 10vmin;
+}
+
 :local p {
   margin-top: 0%;
 }

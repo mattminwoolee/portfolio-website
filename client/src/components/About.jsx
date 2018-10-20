@@ -57,6 +57,9 @@ const About = () => {
             <li>Chrome Dev Tools</li>
             <li>Git</li>
           </div>
+        </div> 
+        <div className={ styles.resumeContainer }>
+          <h3><a href="/resume/mattminwoolee-resume.pdf" download>Download my resume</a></h3>
         </div>
       </div>
     </FadeIn>

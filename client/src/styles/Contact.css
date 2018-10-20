@@ -37,12 +37,60 @@
 
 :local .contactForm {
   display: flex;
+  padding: 4vmin;
+  margin: 0 2 vmin;
+  text-align: left;
   justify-content:center;
   align-content:center;
   flex-direction:column;
   width: 65%;
   /* border-style: solid; */
   border-width: 1px;
+}
+
+:local a {
+  text-decoration: none;
+  color: inherit;
+}
+
+:local a:hover {
+  color: lightgrey;
+  transform: scale(1.9);
+}
+
+:local .form {
+  display: inline-block;
+  text-align: left;
+}
+
+:local .form input[type=text] {
+  margin: 2vmin 4vmin 2vmin 0;
+  font-size: 2.4vmin;
+}
+
+:local .form textarea {
+  font-size: 2.4vmin;
+}
+
+:local .form input[type=submit] {
+  float: right;
+  background-color: #555555;
+  border: none;
+  color: white;
+  padding: 2vmin 3vmin;
+  text-align: center;
+  text-decoration: none;
+  /* display: inline-block; */
+  font-size: 2.4vmin;
+  margin: 2vmin 4vmin 2vmin 0;  
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+:local .form input[type=submit]:hover {
+  border: white;
+  background-color:rgb(250, 250, 248);
+  color: black;
 }
 
 @media (max-width: 500px ) {
