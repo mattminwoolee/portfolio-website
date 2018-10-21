@@ -7,3 +7,7 @@
   /* border-style: solid; */
   border-width: 1px;
 }
+
+:local .container h1 {
+  font-size: 8vmin;
+}

@@ -7,7 +7,7 @@ const Home = () => {
     <FadeIn>
       <div className={ styles.home }>
         <div className={ styles.container} >
-          <h1>matt minwoo lee</h1>
+          <h1>m m L</h1>
         </div>
       </div>
     </FadeIn>
