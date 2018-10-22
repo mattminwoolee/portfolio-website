@@ -23,6 +23,7 @@ const About = () => {
             <li><i className="devicon-javascript-plain"></i> JavaScript ES6</li>
             <li><i className="devicon-html5-plain"></i> HTML5</li>
             <li><i className="devicon-css3-plain"></i> CSS3</li>
+            <li><i class="devicon-sass-original"></i> SASS</li>
             <li><i className="devicon-mysql-plain"></i> SQL</li>
             <li><i className="devicon-java-plain"></i> Java</li>
             <li><img src="/images/matlab.png" style={{height: "2.5vmin", width: "2.5vmin", objectFit: "contain"}}/> MATLAB</li>
