@@ -10,7 +10,6 @@ var bodyParser = require('body-parser');
 // var App = require('./../client/src/components/App.jsx');
 
 var app = express();
-
 app.use(express.static(__dirname + '/../client/dist'));
 // app.get('/', (req, res) => {
 //   var html = `
