@@ -13,7 +13,7 @@ const Portfolio = () => {
             <div className={ styles.maskDescription }>
               <p>An interactive formations app built for choreographers. Through this app, choreographers are able to visually create and store formations as well as respective transitions to previous and next.</p>
               <p>(ReactJS, Node.js/Express, MongoDB, Heroku, CSS)</p>
-              <a href="https://youtu.be/xbU_jC_JQb4">Video Link ||</a>
+              <a href="https://youtu.be/xbU_jC_JQb4">Video Link</a>
               {/* <a href="https://mattminwoolee-arena-mvp.herokuapp.com/"> Deployed</a> */}
             </div>
           </div>
