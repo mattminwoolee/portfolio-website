@@ -59,7 +59,7 @@ const About = () => {
           </div>
         </div> 
         <div className={ styles.resumeContainer }>
-          <h3><a href="/resume/mattminwoolee-resume.pdf" download></a></h3>
+          <h3><a href="/resume/mattminwoolee-resume.pdf" target="_blank">Download my Resume</a></h3>
         </div>
       </div>
     </FadeIn>
