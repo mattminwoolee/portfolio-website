@@ -9,7 +9,7 @@
   "main": "index.js",
   "scripts": {
     "react-dev": "webpack -d --watch",
-    "start": "nodemon server/index.js",
+    "start": "node server/index.js",
     "heroku": "git push heroku master"
   },
   "repository": {
