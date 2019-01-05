@@ -39,7 +39,8 @@ const Portfolio = () => {
             <div className={ styles.maskDescription }>
             <p>A full stack e-commerce web application. I designed a component architecture for the photo gallery and checkout panel to ensure a seamless experience of a product purchase.</p>
             <p>(ReactJS, Node.js/Express, MongoDB, Docker, AWS)</p>
-            <a href="https://youtu.be/DipKKBxPBWc">Video Link</a>
+            <a href="https://youtu.be/DipKKBxPBWc">Video Link</a><span> | </span>
+            <a href="https://github.com/8-bit-beauty/component-mattminwoolee">Github</a>
             </div>
           </div>
         </div>
